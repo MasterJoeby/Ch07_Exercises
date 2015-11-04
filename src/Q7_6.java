@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Chapter 7 Exercise 7.3
+// Chapter 7 Exercise 7.6
 /* The population of Mexico at the end of 2014 was around 123.8 million.
  * Write and test a program that will prompt the user for a number
  * (a double) that represents a target population number (in millions)

@@ -18,7 +18,7 @@ public class Q7_6 {
 		int newPopulation = scanner.nextInt();
 		System.out.println("The year the population exceeds the population you typed is: " + theYear(newPopulation));
 	}
-	public static double theYear(int newPopulation) 
+	public static int theYear(int newPopulation) 
 	{
 		int originalyear = 2014;
 		double originalPopulation = 123.8;
